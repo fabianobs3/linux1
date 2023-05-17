@@ -22,3 +22,6 @@
 [submodule "WhatsSpy"]
 	path = WhatsSpy
 	url = https://github.com/tirgei/WhatsSpy.git
+[submodule "uTox"]
+	path = uTox
+	url = https://github.com/uTox/uTox.git
