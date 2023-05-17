@@ -1,0 +1,24 @@
+[submodule "OSINT-Framework"]
+	path = OSINT-Framework
+	url = https://github.com/lockfale/OSINT-Framework.git
+[submodule "social_mapper"]
+	path = social_mapper
+	url = https://github.com/Greenwolf/social_mapper.git
+[submodule "clownfish"]
+	path = clownfish
+	url = https://github.com/vuhpdc/clownfish.git
+[submodule "VeraCrypt"]
+	path = VeraCrypt
+	url = https://github.com/veracrypt/VeraCrypt.git
+[submodule "Osintgram"]
+	path = Osintgram
+	url = https://github.com/Datalux/Osintgram.git
+[submodule "Signal-Desktop"]
+	path = Signal-Desktop
+	url = https://github.com/signalapp/Signal-Desktop.git
+[submodule "WhatsApp-Analyzer"]
+	path = WhatsApp-Analyzer
+	url = https://github.com/PetengDedet/WhatsApp-Analyzer.git
+[submodule "WhatsSpy"]
+	path = WhatsSpy
+	url = https://github.com/tirgei/WhatsSpy.git
