@@ -25,3 +25,9 @@
 [submodule "uTox"]
 	path = uTox
 	url = https://github.com/uTox/uTox.git
+[submodule "Ethical-Hacking-Tools"]
+	path = Ethical-Hacking-Tools
+	url = https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools
+[submodule "social-analyzer"]
+	path = social-analyzer
+	url = https://github.com/qeeqbox/social-analyzer.git
