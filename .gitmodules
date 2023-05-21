@@ -31,3 +31,6 @@
 [submodule "social-analyzer"]
 	path = social-analyzer
 	url = https://github.com/qeeqbox/social-analyzer.git
+[submodule "lyrebird"]
+	path = lyrebird
+	url = https://github.com/lyrebird-voice-changer/lyrebird.git
